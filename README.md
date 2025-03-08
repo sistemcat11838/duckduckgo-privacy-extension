@@ -1,4 +1,4 @@
-# DuckDuckGo Browser Extensions
+@
 
 [![Build Status](https://github.com/duckduckgo/duckduckgo-privacy-extension/actions/workflows/checks.yml/badge.svg)](https://github.com/duckduckgo/duckduckgo-privacy-extension/actions/workflows/checks.yml)
 
